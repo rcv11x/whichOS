@@ -3,7 +3,8 @@
 
 ### 🌐 A tool written in python 3 that allows you to scan an IP and find out what type of operating system and TTL it has.
 <br>
-
+❗Scanning only works on LAN and Unix systems.
+<br>
 ![whichOS](https://i.imgur.com/HI6zd92.gif)
 
 
